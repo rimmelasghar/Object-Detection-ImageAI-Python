@@ -6,3 +6,4 @@ One of the important fields of Artificial Intelligence is Computer Vision. Compu
 
 Object detection refers to the capability of computer and software systems to locate objects in an image/scene and identify each object. Object detection has been widely used for face detection, vehicle detection, pedestrian counting, web images, security systems and driverless cars. There are many ways object detection can be used as well in many fields of practice. Like every other computer technology, a wide range of creative and amazing uses of object detection will definitely come from the efforts of computer programmers and software developers.
 
+Code with Rimmel with ❤
